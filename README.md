@@ -29,6 +29,8 @@ This architecture replaces rigid, hardcoded rule engines with an elastic AI anal
 │  (Target Ledger: Cloud Database / Sheets)    │
 └─────────────────────────────────────────────┘
 
+<img width="1920" height="1020" alt="20260708-0904-52 9245686" src="https://github.com/user-attachments/assets/7b6ef134-a21d-44d7-b44c-b75b24dc5eb9" />
+
 ---
 
 ## 🛠️ Technical Deep Dive
